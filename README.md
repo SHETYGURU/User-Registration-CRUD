@@ -1,6 +1,6 @@
 
 # User Registration Application
-## (if databse key is  not working[firebaseServiceAccountKey.json](user-registration-backend/firebaseServiceAccountKey.json)  create your database and generate new private key  or... request for api key (only for testing))
+## (if databse key is  not working [ in  [firebaseServiceAccountKey.json](user-registration-backend/firebaseServiceAccountKey.json) ] create your database and generate new private key  or... request for api key (only for testing))
 This is a full-stack application built using **React.js** for the frontend and **Node.js** with **Express** for the backend. The application allows users to interact with Firebase Realtime Database, perform CRUD operations, and view or update data through a responsive user interface.
 
 ## Table of Contents
