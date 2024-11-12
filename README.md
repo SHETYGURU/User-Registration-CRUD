@@ -23,13 +23,13 @@ The application uses **Firebase Realtime Database** for storing data and **JWT A
 Here are some screenshots of the application in action:
 
 ### User Registration Page
-![Home](./1.jpg)
+![Home](./1.png)
 
 ### User Login Page
-![Create User](./2.jpg)
+![Create User](./2.png)
 
 ### User Dashboard
-![View User](3.jpg)
+![View User](3.png)
 
 
 
