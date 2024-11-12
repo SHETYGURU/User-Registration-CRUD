@@ -9,7 +9,6 @@ This is a full-stack application built using **React.js** for the frontend and *
 - [Frontend Setup](#frontend-setup)
 - [Backend Setup](#backend-setup)
 - [Running the Application](#running-the-application)
-- [Directory Structure](#directory-structure)
 - [API Endpoints](#api-endpoints)
 - [Firebase Setup](#firebase-setup)
 
