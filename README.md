@@ -5,6 +5,7 @@ This is a full-stack application built using **React.js** for the frontend and *
 
 ## Table of Contents
 - [Project Overview](#project-overview)
+- [Screenshots](#Scrennshots)
 - [Technologies Used](#technologies-used)
 - [Frontend Setup](#frontend-setup)
 - [Backend Setup](#backend-setup)
@@ -16,6 +17,21 @@ This is a full-stack application built using **React.js** for the frontend and *
 This full-stack application allows users to perform CRUD (Create, Read, Update, Delete) operations. The backend handles the logic, user authentication, and serves API requests, while the frontend displays the data in an interactive, user-friendly manner. 
 
 The application uses **Firebase Realtime Database** for storing data and **JWT Authentication** for secure access control.
+
+## Screenshots
+
+Here are some screenshots of the application in action:
+
+### User Registration Page
+![Home](./1.jpg)
+
+### User Login Page
+![Create User](./2.jpg)
+
+### User Dashboard
+![View User](3.jpg)
+
+
 
 ## Technologies Used
 
